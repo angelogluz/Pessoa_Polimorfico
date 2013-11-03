@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Angelo
+ * @author Angelo Luz
  */
 public class ControllerLogicPessoaEditarPopular implements ControllerLogic{
 
